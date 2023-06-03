@@ -1,0 +1,10 @@
+/* .range{
+    width: 85%;
+    height: 50px;
+    border-radius: 20px;
+    background-color: green;
+} */
+
+button:disabled{
+    background-color: gray;
+}
